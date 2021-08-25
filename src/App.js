@@ -189,7 +189,7 @@ export default function App() {
                             }}
                         >
                             <Typography variant="h2" component="h2">
-                                No ingredients .....
+                                No recipes .....
                             </Typography>
                         </Grid>
                     )}
